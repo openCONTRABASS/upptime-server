@@ -4,17 +4,19 @@
     "url": "$SERVER_SITE_GET_ENDPOINT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 323,
-    "timeDay": 323,
-    "timeWeek": 323,
-    "timeMonth": 323,
-    "timeYear": 323,
-    "dailyMinutesDown": {}
+    "time": 285,
+    "timeDay": 256,
+    "timeWeek": 285,
+    "timeMonth": 285,
+    "timeYear": 285,
+    "dailyMinutesDown": {
+      "2022-02-20": 0
+    }
   }
 ]
