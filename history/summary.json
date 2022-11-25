@@ -4,7 +4,7 @@
     "url": "$SERVER_SITE_GET_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server",
-    "status": "up",
+    "status": "down",
     "uptime": "96.01%",
     "uptimeDay": "96.92%",
     "uptimeWeek": "98.68%",
