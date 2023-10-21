@@ -6,17 +6,16 @@
     "slug": "server",
     "status": "up",
     "uptime": "95.48%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "95.15%",
     "time": 713,
-    "timeDay": 12391,
-    "timeWeek": 6055,
-    "timeMonth": 2431,
+    "timeDay": 12426,
+    "timeWeek": 6076,
+    "timeMonth": 2439,
     "timeYear": 811,
     "dailyMinutesDown": {
-      "2023-10-20": 10,
       "2023-09-16": 31,
       "2023-09-13": 17,
       "2023-08-02": 764,
@@ -57,8 +56,7 @@
       "2022-11-18": 23,
       "2022-11-15": 22,
       "2022-10-30": 821,
-      "2022-10-29": 902,
-      "2022-10-21": 64
+      "2022-10-29": 902
     }
   }
 ]
