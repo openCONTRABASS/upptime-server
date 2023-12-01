@@ -1,7 +1,7 @@
 url: $SERVER_SITE_GET_ENDPOINT
 status: up
 code: 200
-responseTime: 343
-lastUpdated: 2023-11-30T23:12:03.545Z
+responseTime: 375
+lastUpdated: 2023-12-01T23:11:46.314Z
 startTime: 2022-02-19T21:19:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
