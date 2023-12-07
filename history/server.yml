@@ -1,7 +1,7 @@
 url: $SERVER_SITE_GET_ENDPOINT
 status: down
 code: 502
-responseTime: 469
-lastUpdated: 2023-12-06T23:12:17.458Z
+responseTime: 585
+lastUpdated: 2023-12-07T23:12:04.696Z
 startTime: 2022-02-19T21:19:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
