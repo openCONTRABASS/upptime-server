@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server",
     "status": "up",
-    "uptime": "86.32%",
+    "uptime": "86.34%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.83%",
-    "uptimeMonth": "26.01%",
-    "uptimeYear": "76.11%",
-    "time": 820,
-    "timeDay": 598,
-    "timeWeek": 426,
-    "timeMonth": 795,
-    "timeYear": 815,
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "29.29%",
+    "uptimeYear": "76.17%",
+    "time": 821,
+    "timeDay": 880,
+    "timeWeek": 465,
+    "timeMonth": 801,
+    "timeYear": 816,
     "dailyMinutesDown": {
       "2024-02-16": 888,
       "2024-02-15": 1440,
@@ -116,8 +116,7 @@
       "2023-04-06": 126,
       "2023-03-17": 15,
       "2023-03-15": 18,
-      "2023-03-14": 20,
-      "2023-02-24": 629
+      "2023-03-14": 20
     }
   }
 ]
